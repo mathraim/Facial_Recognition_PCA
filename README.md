@@ -24,11 +24,11 @@ Template code is provided in the `PCA Mini-Project.ipynb` notebook file. You wil
 In a terminal or command window, navigate to the project directorythat contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook boston_housing.ipynb
+ipython notebook PCA Mini-Project.ipynb
 ```  
 or
 ```bash
-jupyter notebook boston_housing.ipynb
+jupyter notebook PCA Mini-Project.ipynb
 ```
 
 This will open the Jupyter Notebook software and project file in your browser.
